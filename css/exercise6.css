@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.intro{
+    color: #ffc700;
+    font-size: 1.125rem;
+    max-width: 56.25rem;
+    height: fit-content;
+    padding: 2rem;
+    border: 1px solid lightgray;
+    margin: 32px auto;
+
+    background: #18354a;
+
+
+}
