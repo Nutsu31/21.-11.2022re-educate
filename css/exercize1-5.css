@@ -17,17 +17,20 @@ div{
     float: left;
 }
 .exercise1{
+    color: #ffc700;
     width: 400px;
     height: 300px;
     background: #18354a;
 }
 
 .exercise2{
+    color: #ffc700;
     width: 25rem;
     height: 18.75rem;
     background: #18354a;
 }
 .exercise3{
+    color: #ffc700;
     width: 25rem;
     height: 18.75rem;
     margin: 3rem 0;
@@ -35,24 +38,16 @@ div{
 }
 
 .exercise4{
+    color: #18354a;
     width: 25rem;
     height: 18.75rem;
     padding: 2rem;
     background: #ffc700;
 }
 
-.intro{
-    color: #ffc700;
-    font-size: 1.125rem;
-    width: 56.25rem;
-    padding: 3rem;
-    border: 1px solid gray;
-    display: flex;
-    flex-direction: column;
-    background-color: #18354a;
-}
 
 .exercise5{
+    color: #ffc700;
     width: 25rem;
     height: 18.75rem;
     background: #18354a;
